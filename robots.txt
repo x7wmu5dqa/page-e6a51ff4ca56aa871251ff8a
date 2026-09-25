@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.xn--welink345-yi5p512l.com/sitemap.xml
